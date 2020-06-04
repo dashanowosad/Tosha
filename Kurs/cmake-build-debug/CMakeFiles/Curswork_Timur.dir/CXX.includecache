@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Curswork Timur/DualSimplexMethod.cpp
+DualSimplexMethod.h
+/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Curswork Timur/DualSimplexMethod.h
+
+/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Curswork Timur/DualSimplexMethod.h
+iostream
+-
+iomanip
+-
+fstream
+-
+vector
+-
+Frac.h
+/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Curswork Timur/Frac.h
+
+/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Curswork Timur/Frac.h
+numeric
+-
+iostream
+-
+string
+-
+

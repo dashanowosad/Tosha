@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="NW" targetName="NW" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91ea3e50-95a1-4fcd-bf61-1212f5752667" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Model.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Model.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../NWonJava/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWonJava/src/main/java/algoriphm/lab3/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NWonJava/src/main/java/algoriphm/lab3/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Mobile/Кирилл/Bugs/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Mobile/Кирилл/Bugs/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Mobile/Кирилл/Lab2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Mobile/Кирилл/Lab2/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1c9tRgz6fsFTYkjpjToEWhz0Mge" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NW" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="NW" TARGET_NAME="NW" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="NW" RUN_TARGET_NAME="NW">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ea3e50-95a1-4fcd-bf61-1212f5752667" name="Default Changelist" comment="" />
+      <created>1589952630656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589952630656</updated>
+      <workItem from="1589952632100" duration="8949000" />
+      <workItem from="1589971198066" duration="1070000" />
+      <workItem from="1589983963448" duration="170000" />
+      <workItem from="1590043699068" duration="33000" />
+      <workItem from="1590655946146" duration="1634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="711" y="323" width="488" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589954809355">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="711" y="323" width="488" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1036@0.0.1920.1036" timestamp="1589954809355" />
+    <state width="1878" height="296" key="GridCell.Tab.0.bottom" timestamp="1590659010702">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1590659010702" />
+    <state width="1878" height="296" key="GridCell.Tab.0.center" timestamp="1590659010702">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1590659010702" />
+    <state width="1878" height="296" key="GridCell.Tab.0.left" timestamp="1590659010702">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1590659010702" />
+    <state width="1878" height="296" key="GridCell.Tab.0.right" timestamp="1590659010702">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1590659010702" />
+    <state width="1878" height="340" key="GridCell.Tab.1.bottom" timestamp="1589962807299">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1589962807299" />
+    <state width="1878" height="340" key="GridCell.Tab.1.center" timestamp="1589962807299">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.1.center/0.0.1920.1036@0.0.1920.1036" timestamp="1589962807299" />
+    <state width="1878" height="340" key="GridCell.Tab.1.left" timestamp="1589962807299">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.1.left/0.0.1920.1036@0.0.1920.1036" timestamp="1589962807299" />
+    <state width="1878" height="340" key="GridCell.Tab.1.right" timestamp="1589962807299">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.1.right/0.0.1920.1036@0.0.1920.1036" timestamp="1589962807299" />
+  </component>
+</project>

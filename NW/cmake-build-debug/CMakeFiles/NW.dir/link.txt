@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/NW.dir/main.cpp.o CMakeFiles/NW.dir/NW.cpp.o CMakeFiles/NW.dir/Model.cpp.o  -o NW 

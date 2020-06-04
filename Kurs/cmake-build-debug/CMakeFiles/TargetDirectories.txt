@@ -1,0 +1,3 @@
+/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Curswork Timur/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Curswork Timur/cmake-build-debug/CMakeFiles/Curswork_Timur.dir
+/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Curswork Timur/cmake-build-debug/CMakeFiles/edit_cache.dir

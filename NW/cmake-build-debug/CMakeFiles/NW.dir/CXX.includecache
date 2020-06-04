@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Lab3/NW/Model.cpp
+Model.h
+/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Lab3/NW/Model.h
+
+/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Lab3/NW/Model.h
+vector
+-
+iostream
+-
+fstream
+-
+iomanip
+-
+

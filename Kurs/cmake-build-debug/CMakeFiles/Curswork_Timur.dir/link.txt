@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Curswork_Timur.dir/main.cpp.o CMakeFiles/Curswork_Timur.dir/DualSimplexMethod.cpp.o CMakeFiles/Curswork_Timur.dir/Frac.cpp.o  -o Curswork_Timur 

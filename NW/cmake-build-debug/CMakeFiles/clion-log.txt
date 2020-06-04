@@ -1,0 +1,4 @@
+/opt/apps/CLion/ch-0/193.6494.38/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Lab3/NW"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/dasha/Рабочий стол/Institut/6_semestr/Algorithms/Timur + Dasha/Lab3/NW/cmake-build-debug
